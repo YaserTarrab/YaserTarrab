@@ -37,9 +37,7 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/YaserTarrab/YaserTarrab/output/snake.svg" alt="Snake animation" />
+<h1 align="center">connect with Me</h1>
 
 ###
 
@@ -58,5 +56,3 @@
 </div>
 
 ###
-![Snake animation](https://github.com/YaserTarrab/YaserTarrab/blob/output/github-contribution-grid-snake.svg)
-
