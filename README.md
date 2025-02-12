@@ -58,3 +58,5 @@
 </div>
 
 ###
+![Snake animation](https://github.com/YaserTarrab/YaserTarrab/blob/output/github-contribution-grid-snake.svg)
+
