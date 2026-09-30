@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=2222C6&height=220&section=header&text=YASER%20TARRAB&fontSize=46&fontColor=FFFFFF&fontAlignY=40&desc=AI%20SYSTEMS%20%7C%20FULL-STACK%20DEVELOPMENT%20%7C%20SOFTWARE%20ENGINEERING&descAlignY=60&descSize=15" width="100%">
+  <img src="./assets/header.svg" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=2222C6&center=true&vCenter=true&width=750&lines=AI+Systems;Intelligent+Applications;Full-Stack+Development;Software+Engineering">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=2222C6&center=true&vCenter=true&width=750&lines=AI+Systems;Full-Stack+Development;Intelligent+Applications;Software+Engineering">
 </p>
 
 <p align="center">
@@ -16,24 +16,22 @@
 
 I'm **Yaser Tarrab**, a third-year Computer Engineering student and Full-Stack Developer focused on building modern software and AI-powered systems.
 
-- 🤖 Building **AI Systems** with LLMs, RAG, AI Agents and Document Intelligence
-- 💻 Full-Stack Development with **React, JavaScript, TypeScript, Python and Backend Technologies**
-- 🧠 Interested in **Intelligent Applications, AI Engineering and Software Architecture**
-- ⚙️ Building practical systems that combine **AI, automation and modern software development**
-- 🚀 Focused on turning ideas into **real, scalable and maintainable systems**
+- 🤖 AI Systems, LLMs, RAG, AI Agents & Document Intelligence
+- 💻 Full-Stack Development with React, JavaScript, TypeScript & Python
+- ⚙️ Backend Development, APIs & scalable applications
+- 🧠 Combining AI with practical software engineering
+- 🚀 Building real systems and continuously improving them
 
 ---
 
 ## AI SYSTEM
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20SYSTEMS-2222C6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/AI%20Systems-2222C6?style=for-the-badge">
   <img src="https://img.shields.io/badge/LLMs-050505?style=for-the-badge&logoColor=2222C6">
   <img src="https://img.shields.io/badge/RAG-2222C6?style=for-the-badge">
-  <img src="https://img.shields.io/badge/AI%20AGENTS-050505?style=for-the-badge&logoColor=2222C6">
-  <img src="https://img.shields.io/badge/DOCUMENT%20AI-2222C6?style=for-the-badge">
-  <img src="https://img.shields.io/badge/OCR-050505?style=for-the-badge&logoColor=2222C6">
-  <img src="https://img.shields.io/badge/MULTIMODAL%20AI-2222C6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/AI%20Agents-050505?style=for-the-badge&logoColor=2222C6">
+  <img src="https://img.shields.io/badge/Document%20AI-2222C6?style=for-the-badge">
 </p>
 
 ---
@@ -48,9 +46,6 @@ I'm **Yaser Tarrab**, a third-year Computer Engineering student and Full-Stack D
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45" height="45">
-
-  <br><br>
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45">
@@ -59,17 +54,11 @@ I'm **Yaser Tarrab**, a third-year Computer Engineering student and Full-Stack D
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45" height="45">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" height="45">
-
-  <br><br>
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" height="45">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45" height="45">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" height="45">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45" height="45">
-
-  <br><br>
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" height="45">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" height="45">
@@ -84,40 +73,43 @@ I'm **Yaser Tarrab**, a third-year Computer Engineering student and Full-Stack D
 
 ## FEATURED WORK
 
-<table align="center">
+<table>
   <tr>
     <td width="50%" align="center">
-
-### 🧠 AI DOCUMENT INTELLIGENCE
-
-`LLM` · `RAG` · `OCR` · `DOCUMENT AI`
-
+      <h3>🧠 AI DOCUMENT SYSTEM</h3>
+      <sub>Intelligent document understanding powered by LLMs and autonomous agents</sub>
+      <br><br>
+      <code>AI SYSTEM</code>
+      <code>LLM</code>
+      <code>AI AGENTS</code>
+      <code>DOCUMENT AI</code>
     </td>
-
     <td width="50%" align="center">
-
-### 🤖 MULTI-AGENT AI SYSTEMS
-
-`AI AGENTS` · `LLM` · `LANGGRAPH` · `AI ENGINEERING`
-
+      <h3>⚡ INTELLIGENT AUTOMATION PLATFORM</h3>
+      <sub>End-to-end AI workflows connecting models, data and services</sub>
+      <br><br>
+      <code>PYTHON</code>
+      <code>AI WORKFLOWS</code>
+      <code>BACKEND</code>
+      <code>APIs</code>
     </td>
   </tr>
-
   <tr>
     <td width="50%" align="center">
-
-### 📄 INTELLIGENT DOCUMENT CLASSIFICATION
-
-`OCR` · `VLM` · `LAYOUT ANALYSIS` · `AI`
-
+      <h3>🤖 AI AGENT SYSTEMS</h3>
+      <sub>Multi-step reasoning agents grounded in retrieval and real-world tools</sub>
+      <br><br>
+      <code>AI AGENTS</code>
+      <code>RAG</code>
+      <code>LLM</code>
     </td>
-
     <td width="50%" align="center">
-
-### ⚙️ FULL-STACK APPLICATIONS
-
-`REACT` · `PYTHON` · `APIs` · `BACKEND`
-
+      <h3>🚀 FULL-STACK PROJECTS</h3>
+      <sub>Production-ready applications from interface to infrastructure</sub>
+      <br><br>
+      <code>REACT</code>
+      <code>BACKEND</code>
+      <code>APIs</code>
     </td>
   </tr>
 </table>
@@ -142,23 +134,23 @@ I'm **Yaser Tarrab**, a third-year Computer Engineering student and Full-Stack D
 <p align="center">
 
 <a href="https://yaser-tarrab.vercel.app/">
-  <img src="https://img.shields.io/badge/WEBSITE-2222C6?style=for-the-badge&logo=google-chrome&logoColor=white">
+  <img src="https://img.shields.io/badge/Website-2222C6?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/yaser-tarrab-489062350/">
-  <img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=2222C6">
-</a>
-
-<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
-  <img src="https://img.shields.io/badge/INSTAGRAM-2222C6?style=for-the-badge&logo=instagram&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=2222C6">
 </a>
 
 <a href="mailto:yasertarrab10@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=2222C6">
+  <img src="https://img.shields.io/badge/Email-2222C6?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://github.com/YaserTarrab">
-  <img src="https://img.shields.io/badge/GITHUB-2222C6?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=2222C6">
+</a>
+
+<a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/">
+  <img src="https://img.shields.io/badge/Instagram-2222C6?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 </p>
@@ -166,5 +158,5 @@ I'm **Yaser Tarrab**, a third-year Computer Engineering student and Full-Stack D
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2222C6&height=120&section=footer" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2222C6&height=100&section=footer" width="100%">
 </p>
