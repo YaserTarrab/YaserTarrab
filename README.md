@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=2222C6&height=190&section=header&text=YASER%20TARRAB&fontSize=46&fontColor=FFFFFF&fontAlignY=40&desc=COMPUTER%20ENGINEERING%20%7C%20AI%20SYSTEMS%20%7C%20FULL-STACK&descAlignY=63&descSize=16&animation=fadeIn" width="100%">
 </p>
 
 <p align="center">
