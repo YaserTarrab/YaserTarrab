@@ -10,20 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=YaserTarrab&label=PROFILE+VIEWS&color=00BFFF&style=flat-square">
 </p>
 
----
-
-## AI SYSTEM
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Systems-00BFFF?style=for-the-badge">
-  <img src="https://img.shields.io/badge/LLMs-050505?style=for-the-badge&logoColor=00BFFF">
-  <img src="https://img.shields.io/badge/RAG-00BFFF?style=for-the-badge">
-  <img src="https://img.shields.io/badge/AI%20Agents-050505?style=for-the-badge&logoColor=00BFFF">
-  <img src="https://img.shields.io/badge/Document%20AI-00BFFF?style=for-the-badge">
-</p>
-
----
-
 ## ABOUT ME
 
 I'm **Yaser Tarrab**, a third-year Computer Engineering student and Full-Stack Developer focused on building modern software and AI-powered systems.
@@ -34,6 +20,16 @@ I'm **Yaser Tarrab**, a third-year Computer Engineering student and Full-Stack D
 - 🧠 Combining AI with practical software engineering
 - 🚀 Building real systems and continuously improving them
 
+---
+## AI SYSTEM
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Systems-00BFFF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LLMs-050505?style=for-the-badge&logoColor=00BFFF">
+  <img src="https://img.shields.io/badge/RAG-00BFFF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/AI%20Agents-050505?style=for-the-badge&logoColor=00BFFF">
+  <img src="https://img.shields.io/badge/Document%20AI-00BFFF?style=for-the-badge">
+</p>
 ---
 
 ## TECHNOLOGY STACK
