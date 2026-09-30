@@ -76,7 +76,7 @@ I'm **Yaser Tarrab**, a third-year Computer Engineering student and Full-Stack D
 <table>
   <tr>
     <td width="50%" align="center">
-      <h3>🧠 AI DOCUMENT SYSTEM</h3>
+      <h3> AI DOCUMENT SYSTEM</h3>
       <sub>Intelligent document understanding powered by LLMs and autonomous agents</sub>
       <br><br>
       <code>AI SYSTEM</code>
@@ -85,7 +85,7 @@ I'm **Yaser Tarrab**, a third-year Computer Engineering student and Full-Stack D
       <code>DOCUMENT AI</code>
     </td>
     <td width="50%" align="center">
-      <h3>⚡ INTELLIGENT AUTOMATION PLATFORM</h3>
+      <h3> INTELLIGENT AUTOMATION PLATFORM</h3>
       <sub>End-to-end AI workflows connecting models, data and services</sub>
       <br><br>
       <code>PYTHON</code>
@@ -96,7 +96,7 @@ I'm **Yaser Tarrab**, a third-year Computer Engineering student and Full-Stack D
   </tr>
   <tr>
     <td width="50%" align="center">
-      <h3>🤖 AI AGENT SYSTEMS</h3>
+      <h3> AI AGENT SYSTEMS</h3>
       <sub>Multi-step reasoning agents grounded in retrieval and real-world tools</sub>
       <br><br>
       <code>AI AGENTS</code>
@@ -104,7 +104,7 @@ I'm **Yaser Tarrab**, a third-year Computer Engineering student and Full-Stack D
       <code>LLM</code>
     </td>
     <td width="50%" align="center">
-      <h3>🚀 FULL-STACK PROJECTS</h3>
+      <h3> FULL-STACK PROJECTS</h3>
       <sub>Production-ready applications from interface to infrastructure</sub>
       <br><br>
       <code>REACT</code>
@@ -148,7 +148,7 @@ I'm **Yaser Tarrab**, a third-year Computer Engineering student and Full-Stack D
   <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=2222C6">
 </a>
 
-<a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/">
+<a href="https://www.instagram.com/https://www.instagram.com/yaser.tarrab//">
   <img src="https://img.shields.io/badge/Instagram-2222C6?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
