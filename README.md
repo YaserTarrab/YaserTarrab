@@ -20,7 +20,6 @@ I'm **Yaser Tarrab**, a third-year Computer Engineering student and Full-Stack D
 - 🧠 Combining AI with practical software engineering
 - 🚀 Building real systems and continuously improving them
 
----
 ## AI SYSTEM
 
 <p align="center">
