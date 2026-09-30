@@ -119,10 +119,6 @@ I'm **Yaser Tarrab**, a third-year Computer Engineering student and Full-Stack D
 ## GITHUB
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YaserTarrab&hide_border=true&background=050505&ring=2222C6&fire=2222C6&currStreakNum=FFFFFF&currStreakLabel=8C8CFF&sideNums=FFFFFF&sideLabels=8C8CFF&dates=AAAAAA&stroke=2222C6" width="80%">
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YaserTarrab&bg_color=050505&color=FFFFFF&title_color=8C8CFF&line=2222C6&point=FFFFFF&area=true&area_color=2222C6&hide_border=true" width="100%">
 </p>
 
