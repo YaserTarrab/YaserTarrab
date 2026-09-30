@@ -148,7 +148,7 @@ I'm **Yaser Tarrab**, a third-year Computer Engineering student and Full-Stack D
   <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=2222C6">
 </a>
 
-<a href="https://www.instagram.com/yaser.tarrab//">
+<a href="https://www.instagram.com/y4w.dev/">
   <img src="https://img.shields.io/badge/Instagram-2222C6?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
