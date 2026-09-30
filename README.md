@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=checkered&color=2222C6&height=200&section=header&text=YASER%20TARRAB&fontSize=50&fontColor=FFFFFF&fontAlignY=40&desc=COMPUTER%20ENGINEERING%20%7C%20AI%20SYSTEMS%20%7C%20FULL-STACK&descAlignY=62&descSize=16&animation=twinkling" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2222C6&height=200&section=header&text=YASER%20TARRAB&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=COMPUTER%20ENGINEERING%20%7C%20AI%20SYSTEMS%20%7C%20FULL-STACK&descAlignY=56&descSize=16&animation=fadeIn" width="100%">
 </p>
 
 <p align="center">
@@ -117,6 +117,14 @@ I'm **Yaser Tarrab**, a third-year Computer Engineering student and Full-Stack D
 ---
 
 ## GITHUB
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=YaserTarrab&hide_border=true&background=050505&ring=2222C6&fire=2222C6&currStreakNum=FFFFFF&currStreakLabel=8C8CFF&sideNums=FFFFFF&sideLabels=8C8CFF&dates=AAAAAA&stroke=2222C6" width="80%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YaserTarrab&bg_color=050505&color=FFFFFF&title_color=8C8CFF&line=2222C6&point=FFFFFF&area=true&area_color=2222C6&hide_border=true" width="100%">
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
